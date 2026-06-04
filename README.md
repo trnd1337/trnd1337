@@ -1,16 +1,78 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xtrnd/xtrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗  ██╗████████╗██████╗ ███╗   ██╗██████╗
+╚██╗██╔╝╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗
+ ╚███╔╝    ██║   ██████╔╝██╔██╗ ██║██║  ██║
+ ██╔██╗    ██║   ██╔══██╗██║╚██╗██║██║  ██║
+██╔╝ ██╗   ██║   ██║  ██║██║ ╚████║██████╔╝
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
+```
 
-Here are some ideas to get you started:
+### `> still figuring it out. but shipping anyway.`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=xtrnd&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+## whoami
+
+```python
+xtrnd = {
+    "location": "Romania 🇷🇴",
+    "status": "beginner, but learning fast",
+    "currently": "building random stuff that may or may not work",
+    "interests": ["automation", "discord bots", "web"],
+    "coffee_dependency": True,
+}
+```
+
+---
+
+## 🛠️ tech i actually use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+## 📈 github stats
+
+<div align="center">
+
+![xtrnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtrnd&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtrnd&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚧 what i'm working on
+
+- 🤖 Discord bots & automation tools
+- 🌐 Learning web development
+- 📦 Small Python projects to solve random problems
+- 🧠 Getting better every day (slowly, but surely)
+
+---
+
+## 📫 find me
+
+> I'm not hard to find. I'm just not everywhere yet.
+
+- Discord: `xtrnd`
+- GitHub: you're already here
+
+---
+
+<div align="center">
+
+*"Every expert was once a beginner."*
+
+**Romania · Building in public · Open to collabs**
+
+</div>
