@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
-██╗  ██╗████████╗██████╗ ███╗   ██╗██████╗
-╚██╗██╔╝╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗
- ╚███╔╝    ██║   ██████╔╝██╔██╗ ██║██║  ██║
- ██╔██╗    ██║   ██╔══██╗██║╚██╗██║██║  ██║
-██╔╝ ██╗   ██║   ██║  ██║██║ ╚████║██████╔╝
-╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
+████████╗██████╗ ███╗   ██╗██████╗
+╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗
+   ██║   ██████╔╝██╔██╗ ██║██║  ██║
+   ██║   ██╔══██╗██║╚██╗██║██║  ██║
+   ██║   ██║  ██║██║ ╚████║██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
 ```
 
 ### `> still figuring it out. but shipping anyway.`
 
-![Profile views](https://komarev.com/ghpvc/?username=xtrnd&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=trnd1337&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -20,7 +20,7 @@
 ## whoami
 
 ```python
-xtrnd = {
+trnd1337 = {
     "location": "Romania 🇷🇴",
     "status": "beginner, but learning fast",
     "currently": "building random stuff that may or may not work",
@@ -43,9 +43,9 @@ xtrnd = {
 
 <div align="center">
 
-![xtrnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtrnd&show_icons=true&theme=tokyonight&hide_border=true)
+![trnd1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=trnd1337&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtrnd&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trnd1337&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -64,7 +64,7 @@ xtrnd = {
 
 > I'm not hard to find. I'm just not everywhere yet.
 
-- Discord: `xtrnd`
+- Discord: `n05y`
 - GitHub: you're already here
 
 ---
