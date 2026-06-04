@@ -24,7 +24,7 @@ trnd1337 = {
     "location": "Romania 🇷🇴",
     "status": "beginner, but learning fast",
     "currently": "building random stuff that may or may not work",
-    "interests": ["automation", "discord bots", "web"],
+    "interests": ["automation", "discord bots", "web", "tweaking windows"],
     "coffee_dependency": True,
 }
 ```
@@ -57,6 +57,7 @@ trnd1337 = {
 - 🌐 Learning web development
 - 📦 Small Python projects to solve random problems
 - 🧠 Getting better every day (slowly, but surely)
+- 🪛 Tweaking computers for the best latency, performance.
 
 ---
 
