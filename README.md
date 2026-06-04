@@ -43,7 +43,7 @@ trnd1337 = {
 
 <div align="center">
 
-![trnd1337's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=trnd1337&show_icons=true&theme=tokyonight&hide_border=true)
+[![trnd1337's GitHub stats](](https://github-readme-stats-one.vercel.app/api?username=trnd1337&show_icons=true&theme=tokyonight&hide_border=true&custom_title=trnd's%20GitHub%20Stats)
 
 ![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=trnd1337&layout=compact&theme=tokyonight&hide_border=true)
 
