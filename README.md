@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
 ```
 
-### `> still figuring it out. but shipping anyway.`
+### `> Livin’ La Vida Loca...`
 
 ![Profile views](https://komarev.com/ghpvc/?username=trnd1337&color=blueviolet&style=flat-square)
 
@@ -21,11 +21,10 @@
 
 ```python
 trnd1337 = {
-    "location": "Romania 🇷🇴",
+    "location": "unknown",
     "status": "beginner, but learning fast",
     "currently": "building random stuff that may or may not work",
     "interests": ["automation", "discord bots", "web", "tweaking windows"],
-    "coffee_dependency": True,
 }
 ```
 
@@ -74,6 +73,6 @@ trnd1337 = {
 
 *"Every expert was once a beginner."*
 
-**Romania · Building in public · Open to collabs**
+**Building in public · Open to collabs**
 
 </div>
