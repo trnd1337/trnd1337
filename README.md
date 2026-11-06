@@ -64,7 +64,7 @@ trnd1337 = {
 
 > I'm not hard to find. I'm just not everywhere yet.
 
-- Discord: `n05y`
+- Discord: `oftal`
 - GitHub: you're already here
 
 ---
